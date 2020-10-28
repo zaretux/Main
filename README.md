@@ -1,4 +1,4 @@
-Main
+SystemCGL
 ====
 
 systemcgl 
